@@ -7,4 +7,5 @@
 
 2. Setelah kita membuka Sublime lalu kita Tulis Script sesuai dengan bilangan yang ingin kita gunakan, seperti contoh Gambar ini!
 
+# ![step 2](https://user-images.githubusercontent.com/47550007/52616311-bd8e4580-2eca-11e9-88fc-293362dc56cf.png)
 
