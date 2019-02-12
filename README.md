@@ -9,3 +9,7 @@
 
 # ![step 2](https://user-images.githubusercontent.com/47550007/52616311-bd8e4580-2eca-11e9-88fc-293362dc56cf.png)
 
+3. Lalu kita buka Command Promp atau CMD (Tekan tanda "HOME+R) 
+
+# ![step 3](https://user-images.githubusercontent.com/47550007/52616629-bfa4d400-2ecb-11e9-9fbf-174403f6eacf.png)
+
