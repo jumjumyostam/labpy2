@@ -16,5 +16,11 @@
 4. Dan setelah membuka CommanPromp/CMD maka ketik nama folder yang kita buat sebelumnya,contoh : "Tugas pak agung" (ditambahkan           		"CD" di depan Tugas > "cd Tugas pak agung.
 
 # ![step 4](https://user-images.githubusercontent.com/47550007/52617295-ea902780-2ecd-11e9-969c-bea3de6d70c9.png)
+
+5. jika berhasil ketik nama filenya "latihan2.py" lalu tekan Enter dan jika berhasil akan muncul hasil yang kita kerjakan di
+    Sublime text, seperti digambar ini 
+    
+# ![step 5](https://user-images.githubusercontent.com/47550007/52617884-d77e5700-2ecf-11e9-84fd-61eb8d0c7568.png)
+
  
   
